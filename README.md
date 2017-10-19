@@ -1,27 +1,24 @@
 ## Marie Kerkstoel
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Other Interests](#Other-interests)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
 
 Hi, I'm Marie, a 23 year old, soon-to-be full stack developer. You've caught me in the middle of my most formative years in which I cannot get enough of everything and anything. I offer enthusiasm, focus, commitment, energy and creativity as well as a skill-set that keeps growing everyday. I am looking to join a team as a front-end developer.   
 
 ## Skills
 
-#### This Skill
+#### Perseverance
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Throughout my (short) life I have been pushed/or have pushed myself into situations where none of my natural skills were the required skills. From moving to countries and going to school where I didn't speak the language. To running long races without training. To taking up classes at university that made me regret taking up those classes. To doing an intense four month coding camp without having any experience whatsoever. I am constantly pushing myself and I never give up without reaching my goal. I succeeded at school in those foreign countries, I finished the races, I got through all those classes and I am confident I will get through makers academy and much more. I am not afraid of challenges.
 
-- Experience
-- Achievements
-- Evidence
+#### Communication
 
-#### Another Skill
+#### Presentation
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Eye for graphics
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+In this aspect I am an out of control detail freak. I am passionate about being able to control how things look. When I was experimenting with blogging, I could sit hours and hours fixing every detail to make the blog look exactly the way I wanted it to. Having something look good gives me immense satisfaction.
+
+[Blog](https://guidelinestotreatingyoself.wordpress.com)
 
 ## Education
 
@@ -75,4 +72,4 @@ I'm fresh out of school so my experience is limited to countless student jobs.
 
 I am a travel, sports, food, music and plant fanatic. I take 3 - 4 yoga/exercise classes per week. I am extremely interested in graphic design and anything that revolves around visual creativity.
 
-[Back to top](#Skills)
+[Back to top](#skills)
