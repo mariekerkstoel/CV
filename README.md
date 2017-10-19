@@ -1,6 +1,6 @@
 ## Marie Kerkstoel
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Other Interests](#Other interests)
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Other Interests](#Other-interests)
 
 Hi, I'm Marie, a 23 year old, soon-to-be full stack developer. You've caught me in the middle of my most formative years in which I cannot get enough of everything and anything. I offer enthusiasm, focus, commitment, energy and creativity as well as a skill-set that keeps growing everyday. I am looking to join a team as a front-end developer.   
 
@@ -25,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (09/2017 to 01/2018)
+#### Makers Academy (September 2017 to January 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -35,7 +35,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby
 - RSpec
 
-####  University (09/2012 to 06/2017)
+####  University (September 2012 to June 2017)
 
 University of Ghent
 Bachelor in Business Economics
@@ -43,7 +43,7 @@ Bachelor in Business Economics
 During my time at the University of Ghent I developed a variety of crucial skills. My communication, presentation, teamwork and leadership skills stem from the endless amount of group projects and presentations we had to work on. My analytical skills, business skills and ability to learn new material in a short amount of time are due to the endless hours spent learning a diverse collection of subjects. (From advanced math, statistics and economics classes to business informatics and production technology classes to HR and marketing classes.)   
 
 Université Paris 1 Panthéon-Sorbonne
-Erasmus Master (09/2016 - 01/2017)
+Erasmus Master (September 2016 - January 2017)
 
 The months I spent studying in Paris not only improved my french immensely (C2 level) but made me much more independent. Being able to not only keep up with the pace of the economics courses in french but also thriving in some of them, were an accomplishment I didn't know I was going to achieve.    
 
@@ -75,4 +75,4 @@ I'm fresh out of school so my experience is limited to countless student jobs.
 
 I am a travel, sports, food, music and plant fanatic. I take 3 - 4 yoga/exercise classes per week. I am extremely interested in graphic design and anything that revolves around visual creativity.
 
-[Back to top](#Marie Kerkstoel)
+[Back to top](#Skills)
