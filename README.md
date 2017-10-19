@@ -1,6 +1,8 @@
 ## Marie Kerkstoel
 
-Hi, I'm Marie.
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Other Interests](#Other interests)
+
+Hi, I'm Marie, a 23 year old, soon-to-be full stack developer. You've caught me in the middle of my most formative years in which I cannot get enough of everything and anything. I offer enthusiasm, focus, commitment, energy and creativity as well as a skill-set that keeps growing everyday. I am looking to join a team as a front-end developer.   
 
 ## Skills
 
@@ -72,3 +74,5 @@ I'm fresh out of school so my experience is limited to countless student jobs.
 ## Other interests
 
 I am a travel, sports, food, music and plant fanatic. I take 3 - 4 yoga/exercise classes per week. I am extremely interested in graphic design and anything that revolves around visual creativity.
+
+[Back to top](#Marie Kerkstoel)
