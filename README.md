@@ -1,6 +1,6 @@
 ## Marie Kerkstoel
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
 
 Hi, I'm Marie, a 23 year old, soon-to-be full stack developer. I offer enthusiasm, focus, commitment, energy and creativity as well as a skill-set that is constantly growing. I am looking to join a team as a front-end developer.   
 
