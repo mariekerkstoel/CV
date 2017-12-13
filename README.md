@@ -2,25 +2,18 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
 
-Hi, I'm Marie, a 23 year old, soon-to-be full stack developer. I offer enthusiasm, focus, commitment, energy and creativity as well as a skill-set that is constantly growing. I am looking to join a team as a front-end developer.   
+Hi, I'm Marie, a 23 year old, soon-to-be full stack developer. I offer enthusiasm, focus, commitment, energy and creativity as well as a skill-set that is constantly evolving. I am looking to join a team as a full stack junior developer.   
 
 ## Skills
 
 #### Communication and social skills
-
+Throughout my education I was part of a few things that improved these skills. I was in the student council for a year, I organised volleyball classes, in Paris I organised weekly training sessions on our campus with my friends. I led many group-works and presentations at university.  
 #### Adaptability
-
-I have never lived in the same place for longer than 5 years. I have learned new languages, made new friends and acquired new skills everywhere I have gone. I have learned to adapt very quickly to any situation.
+Moving to numerous countries throughout my life has taught me how to adapt quickly to new environments. By doing Makers Academy after having finished a business economics degree, I've becoming more confident that this is an essential skill.
 
 #### Perseverance
 
 #### Enthusiasm
-
-#### Eye for graphics
-
-When it comes to graphics and the way things are presented, I am an out of control detail freak. I am passionate about being able to control how things look. When I was experimenting with blogging, I could sit hours and hours fixing every detail to make the blog look exactly the way I wanted it to. Having something look good gives me immense satisfaction.
-
-[Blog](https://guidelinestotreatingyoself.wordpress.com)
 
 ## Projects
 
@@ -28,11 +21,14 @@ When it comes to graphics and the way things are presented, I am an out of contr
 
 #### Makers Academy (September 2017 to January 2018)
 
+Makers Academy is an intense 3 month course that teaches its students a number of skills. The first thing Makers Academy focusses on is teaching the necessary tech skills to become a junior developer. Some of which I've summarised here:
 - Object Oriented Programming
 - Focus on Test Driven Development
 - Pair Programming
 - Full Stack Web Development
-- Ruby, Rspec, TDD, ..
+- TDD, Ruby, Javascript, Rspec, Rails , .. <br />
+
+I have also gained numerous other skills by taking this course at Makers Academy. I have discovered my own technique for how to pick up new material fairly quickly. I have gained more experience in how to work with other people in a professional environment. This entails knowing how to communicate, what to communicate and when to ask for help.
 
 ####  University (September 2012 to June 2017)
 
@@ -57,12 +53,12 @@ Languages
 
 - Dutch (C1 level: native language)
 - English (C1 level: 3 years spent studying in the US)
-- French (C2 level: Having in lived in France several different times)
+- French (C2 level: Having in lived in France)
 
 
 ## Experience
 
-I'm fresh out of school so my experience is limited to countless student jobs.
+I'm fresh out of school so my experience is limited to numerous student jobs.
 
 **BbyB Chocolates** (September 2013 - September 2014)    
 *Sale & Responsible for training other students*  
