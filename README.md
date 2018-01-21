@@ -2,20 +2,29 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
 
-Hi, I'm Marie, a 23 year old, soon-to-be full stack developer. I offer enthusiasm, focus, commitment, energy and creativity as well as a skill-set that is constantly evolving. I am looking to join a team as a full stack junior developer.   
+Hi, I am a full stack developer and business economics student. I offer enthusiasm, focus, commitment, energy and creativity as well as a skill-set that is constantly evolving. I am looking to join a team as a full stack junior developer.   
 
 ## Skills
 
 #### Communication and social skills
-Throughout my education I was part of a few things that improved these skills. I was in the student council for a year, I organised volleyball classes, in Paris I organised weekly training sessions on our campus with my friends. I led many group-works and presentations at university.  
+Throughout my education I was part of a few things that improved these skills. I was in the student council for a year, I organised volleyball classes. I learned how to communicate with different types of people (The students, the teachers, the school's directors and alumni). At university, a lot of emphasis was put on doing group projects in order to learn how to communicate and work with other people. I estimate that during my time at uni I did about 25-30 different projects with different people. During these projects I took up roles varying from leader to mediator to energiser. At Makers Academy we learned how to pair program and to work on projects in groups.  
 #### Adaptability
-Moving to numerous countries throughout my life has taught me how to adapt quickly to new environments. By doing Makers Academy after having finished a business economics degree, I've becoming more confident that this is an essential skill.
-
+Moving to numerous countries throughout my life has taught me how to adapt quickly to new environments. By doing Makers Academy after having finished a business economics degree, I've become more confident in my ability to adapt quickly to new people and environments.
 #### Perseverance
 
 #### Enthusiasm
 
 ## Projects
+| Project | Description | Technologies |
+
+| [Pub Quiz App](https://github.com/mariekerkstoel/Pub_Quiz_FInalProject) | Live pub quiz app | React.js, Javascript, Mocha, Sinon, Enzyme, Chai, Zombie.js |
+
+| [Pub Quiz API](https://github.com/mariekerkstoel/pub-quiz-api) |   This is the api back-end for our pub quiz app | Javascript, Node.js, express, Supertest, Mocha, ws, Chai, Sinon, MongoDB, Mongoose |
+
+| [Database Visualisation](https://github.com/mariekerkstoel/Database-visualization) | Program that lets you visualise whatever is in your database | Node.js, Express, Jquery, Javascript, chart.js, Selenium, Mocha, Chai |
+
+| [Instagram Challenge](https://github.com/mariekerkstoel/instagram-challenge) | Recreation of instagram ( Makers weekend challenge ) | Ruby on rails, Rspec, Postgress, Capybara, Bcrypt, Carrierwave |
+
 
 ## Education
 
@@ -26,18 +35,19 @@ Makers Academy is an intense 3 month course that teaches its students a number o
 - Focus on Test Driven Development
 - Pair Programming
 - Full Stack Web Development
-- TDD, Ruby, Javascript, Rspec, Rails , .. <br />
+- Ruby, Javascript, Rspec, Rails , Jasmine, React .. <br />
 
 I have also gained numerous other skills by taking this course at Makers Academy. I have discovered my own technique for how to pick up new material fairly quickly. I have gained more experience in how to work with other people in a professional environment. This entails knowing how to communicate, what to communicate and when to ask for help.
 
 ####  University (September 2012 to June 2017)
 
-University of Ghent (Belgium)
+- University of Ghent (Belgium)
+
 Bachelor in Business Economics
 
 During my time at the University of Ghent I developed a variety of crucial skills. My communication, presentation, teamwork and leadership skills stem from the endless amount of group projects and presentations we had to work on. My analytical skills, business skills and ability to learn new material in a short amount of time are due to the endless hours spent learning a diverse collection of subjects. (From advanced math, statistics and economics classes to business informatics and production technology classes to HR and marketing classes.)   
 
-Université Paris 1 Panthéon-Sorbonne (France)
+- Université Paris 1 Panthéon-Sorbonne (France)
 Erasmus Master (September 2016 - January 2017)
 
 The months I spent studying in Paris not only improved my french immensely (C2 level) but made me much more independent. Being able to not only keep up with the pace of the economics courses in french but also thriving in some of them, were an accomplishment I didn't know I was going to achieve.    
@@ -51,14 +61,13 @@ I am currently still writing my Master thesis about Service Design Tools and res
 
 Languages
 
-- Dutch (C1 level: native language)
-- English (C1 level: 3 years spent studying in the US)
-- French (C2 level: Having in lived in France)
-
+- Dutch ( Fluent : native language)
+- English ( Fluent : 3 years spent studying in the US)
+- French ( Very good : Having in lived in France)
 
 ## Experience
 
-I'm fresh out of school so my experience is limited to numerous student jobs.
+I'm right out of school so my experience is limited to several student jobs.
 
 **BbyB Chocolates** (September 2013 - September 2014)    
 *Sale & Responsible for training other students*  
