@@ -17,7 +17,7 @@ Moving to numerous countries throughout my life has taught me how to adapt quick
 ## Projects
 | Project | Description | Technologies |
 
-| [Pub Quiz App](https://github.com/mariekerkstoel/Pub_Quiz_FInalProject) | Live pub quiz app | React.js, Javascript, Mocha, Sinon, Enzyme, Chai, Zombie.js |
+| [Pub Quiz App](https://github.com/mariekerkstoel/Pub-Quiz) | Live pub quiz app | React.js, Javascript, Mocha, Sinon, Enzyme, Chai, Zombie.js |
 
 | [Pub Quiz API](https://github.com/mariekerkstoel/pub-quiz-api) |   This is the api back-end for our pub quiz app | Javascript, Node.js, express, Supertest, Mocha, ws, Chai, Sinon, MongoDB, Mongoose |
 
