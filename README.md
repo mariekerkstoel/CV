@@ -1,6 +1,6 @@
 ## Marie Kerkstoel
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests) | [LinkedIn](https://www.linkedin.com/in/marie-kerkstoel-00b4a613b/)
 
 Hi, I am a full stack developer and business economics student. I offer enthusiasm, focus, commitment, energy and creativity as well as a skill-set that is constantly evolving. I am looking to join a team as a full stack junior developer.   
 
@@ -15,15 +15,12 @@ Moving to numerous countries throughout my life has taught me how to adapt quick
 #### Enthusiasm
 
 ## Projects
-| Project | Description | Technologies |
-
-| [Pub Quiz App](https://github.com/mariekerkstoel/Pub-Quiz) | Live pub quiz app | React.js, Javascript, Mocha, Sinon, Enzyme, Chai, Zombie.js |
-
-| [Pub Quiz API](https://github.com/mariekerkstoel/pub-quiz-api) |   This is the api back-end for our pub quiz app | Javascript, Node.js, express, Supertest, Mocha, ws, Chai, Sinon, MongoDB, Mongoose |
-
-| [Database Visualisation](https://github.com/mariekerkstoel/Database-visualization) | Program that lets you visualise whatever is in your database | Node.js, Express, Jquery, Javascript, chart.js, Selenium, Mocha, Chai |
-
-| [Instagram Challenge](https://github.com/mariekerkstoel/instagram-challenge) | Recreation of instagram ( Makers weekend challenge ) | Ruby on rails, Rspec, Postgress, Capybara, Bcrypt, Carrierwave |
+Project | Description | Technologies
+------------ | ------------- | ------------
+ [Pub Quiz App](https://github.com/mariekerkstoel/Pub-Quiz) | Live pub quiz app | React.js, Javascript, Mocha, Sinon, Enzyme, Chai, Zombie.js
+[Pub Quiz API](https://github.com/mariekerkstoel/pub-quiz-api) |   This is the api back-end for our pub quiz app | Javascript, Node.js, express, Supertest, Mocha, ws, Chai, Sinon, MongoDB, Mongoose
+[Database Visualisation](https://github.com/mariekerkstoel/Database-visualization) | Program that lets you visualise whatever is in your database | Node.js, Express, Jquery, Javascript, chart.js, Selenium, Mocha, Chai
+[Instagram Challenge](https://github.com/mariekerkstoel/instagram-challenge) | Recreation of instagram ( Makers weekend challenge ) | Ruby on rails, Rspec, Postgress, Capybara, Bcrypt, Carrierwave
 
 
 ## Education
